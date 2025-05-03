@@ -6,7 +6,7 @@ Welcome to **KNNClassifier-X** – a simple and beginner-friendly implementation
 
 K-Nearest Neighbors is a supervised machine learning algorithm commonly used for classification tasks. It works by finding the K closest data points to a given input and predicting the class based on majority voting among those neighbors.
 
-## 🚀 Features
+##  📘  Features
 
 - Basic implementation of the KNN algorithm from scratch
 - Easy-to-understand Python code
@@ -17,9 +17,9 @@ K-Nearest Neighbors is a supervised machine learning algorithm commonly used for
 - Optional visualization (if applicable)
 
 
-## 🔧 How to Run
+## ⚙️ How to Run
 
-1. **Clone the repository**
+1. 📥 **Clone the repository**
 
 ```bash
 git clone https://github.com/yourusername/KNNClassifier-X.git
