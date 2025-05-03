@@ -17,4 +17,13 @@ K-Nearest Neighbors is a supervised machine learning algorithm commonly used for
 - Optional visualization (if applicable)
 
 
+## 🔧 How to Run
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/yourusername/KNNClassifier-X.git
+cd KNNClassifier-X
+
+
 
